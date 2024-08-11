@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: moon
+  m_Shader: {fileID: 4800000, guid: 8bcea6e88a9386c41a3740a1bf0bd08f, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _MoonTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+      _BumpScale: 1
+      _Cutoff: 0.5
+      _DetailNormalMapScale: 1
+      _DstBlend: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 1
+      _Height: 0.35
+      _Metallic: 0
+      _Middle: 0.733
+      _Mode: 0
+      _Multiply: 6
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _Scale: 1
+      _Slide: 0.815
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _UVSec: 0
+      _ZWrite: 1
+    m_Colors:
+      _Color: {r: 1, g: 0.9921184, b: 0.95680696, a: 0}
+      _Color1: {r: 0.23625767, g: 0.21783088, b: 0.375, a: 1}
+      _Color2: {r: 0.33296144, g: 0.152141, b: 0.49264705, a: 1}
+      _Color3: {r: 0.78676474, g: 0.58428854, b: 0.72253084, a: 1}
+      _ColorA: {r: 1, g: 1, b: 1, a: 0}
+      _ColorB: {r: 1, g: 1, b: 1, a: 0}
+      _ColorBot: {r: 1, g: 1, b: 1, a: 1}
+      _ColorMid: {r: 1, g: 1, b: 1, a: 1}
+      _ColorTop: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
